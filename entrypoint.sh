@@ -1,4 +1,4 @@
 #!/bin/sh
 
 echo "Running Streamlit app"
-streamlit run webcam.py
+streamlit run streamlit_app.py
