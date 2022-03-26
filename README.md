@@ -28,3 +28,12 @@ add `-d` to get your terminal back (be sure to `docker-compose down` at some poi
 
 *BONUS:* use `docker-compose exec streamlit-app bash` after you have run `up` to get a shell in your streamlit app.
 Ex: to `pip list` dependency versions
+
+
+## Extras
+
+Exploring Spotify's Pedalboard library in `upload_to_pedalboard.py` and `pedalboard_app.py`.
+
+Can't get webrtc working with it, but upload working fine.
+
+PitchShift throwing av error on output...
